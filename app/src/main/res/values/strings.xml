@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday">Happy Birthday!</string>
+    <string name="happy_birthday_to_me">Happy Birthday To ME !</string>
+    <string name="from_paro">From Paro</string>
+    <string name="happy_birthday_mantu">Happy Birthday Mantu!</string>
+    <string name="from_your_dearest_pom_pom">From Your dearest Pom Pom</string>
+    <string name="nothing_is_there_to_celebrate_man">Nothing is there to celebrate Man</string>
+    <string name="happy_birthday_danellia">Happy Birthday Danellia</string>
+    <string name="from_your_dearest">From your dearest</string>
+</resources>
